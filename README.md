@@ -5,3 +5,5 @@
 - even_or_odd.py - Even or Odd - 8ky kata
 
 - multiply.py - Multiply - 8ky kata  
+
+- make_negative.py - make_negative - ky8 kata
