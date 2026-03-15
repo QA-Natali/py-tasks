@@ -12,4 +12,4 @@
 
 - lovefunc.py - lovefunc - ky8 - kata
 
-- # greet.py - greeet - ky8 - kata
+- greet.py - greeet - ky8 - kata
