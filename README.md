@@ -11,3 +11,5 @@
 - number_to_string - number_to_string - ky8 kata
 
 - lovefunc.py - lovefunc - ky8 - kata
+
+- greet.py - greeet - ky8 - kata
