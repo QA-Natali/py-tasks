@@ -12,4 +12,6 @@
 
 - lovefunc.py - lovefunc - ky8 - kata
 
-- # greet.py - greeet - ky8 - kata
+-  greet.py - greeet - ky8 - kata
+
+- sum_array.py - sum_array - ky8- kata
