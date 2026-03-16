@@ -19,3 +19,5 @@
 - summation.py - summation - ky8 - kata
 
 - doubleInteger.py - doubleInteger -ky8 - kata
+
+- century.py - century - ky8 - kata
