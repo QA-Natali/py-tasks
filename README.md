@@ -15,3 +15,5 @@
 -  greet.py - greeet - ky8 - kata
 
 - sum_array.py - sum_array - ky8- kata
+
+- summation.py - summation - ky8 - kata
