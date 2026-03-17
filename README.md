@@ -21,3 +21,5 @@
 - doubleInteger.py - doubleInteger -ky8 - kata
 
 - century.py - century - ky8 - kata
+
+- string_to_array.py - string_to_array - ky8 - kata
