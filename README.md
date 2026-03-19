@@ -23,3 +23,5 @@
 - century.py - century - ky8 - kata
 
 - string_to_array.py - string_to_array - ky8 - kata
+
+- is_divisible.py - is_divisible - ky8 - kata
