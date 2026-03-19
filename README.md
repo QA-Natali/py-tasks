@@ -25,3 +25,5 @@
 - string_to_array.py - string_to_array - ky8 - kata
 
 - is_divisible.py - is_divisible - ky8 - kata
+
+- smash.py - smash ky8 - kata
