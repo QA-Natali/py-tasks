@@ -28,4 +28,4 @@
 
 - smash.py - smash ky8 - kata
 
--better_than_average.py - better_than_average - ky8 - kata
+- better_than_average.py - better_than_average - ky8 - kata
