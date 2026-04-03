@@ -29,3 +29,5 @@
 - smash.py - smash ky8 - kata
 
 - better_than_average.py - better_than_average - ky8 - kata
+
+- get_count.py - get_count - ky8 - kata
