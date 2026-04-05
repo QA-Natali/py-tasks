@@ -37,3 +37,5 @@
 - is_square.py - is_square - ky8 - kata
 
 - xo.py - xo - ky8 - kata
+
+- maskify.py - maskify - ky8 - kata
