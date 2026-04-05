@@ -33,3 +33,5 @@
 - get_count.py - get_count - ky8 - kata
 
 - descending_order.py - def descending_order - ky8 - kata
+
+- is_square.py - is_square - ky8 - kata
