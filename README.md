@@ -41,3 +41,5 @@
 - maskify.py - maskify - ky8 - kata
 
 - move_zeros.py - move_zeros - ky5 - kata
+
+- sum_two_smallest_numbers.py - sum_two_smallest_numbers -ky7 - kata
