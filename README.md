@@ -39,3 +39,5 @@
 - xo.py - xo - ky8 - kata
 
 - maskify.py - maskify - ky8 - kata
+
+- move_zeros.py - move_zeros - ky5 - kata
