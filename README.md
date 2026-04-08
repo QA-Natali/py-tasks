@@ -45,3 +45,5 @@
 - sum_two_smallest_numbers.py - sum_two_smallest_numbers -ky7 - kata
 
 - filter_list.py - filter_list - ky7 - kata
+
+-printer_error.py - printer_error - ky7 - kata
