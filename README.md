@@ -49,3 +49,5 @@
 - printer_error.py - printer_error - ky7 - kata
 
 - odd_or_even.py - odd_or_even - ky7 - kata
+
+- validate_pin.py - validate_pin - ky7 - kata
