@@ -51,3 +51,5 @@
 - odd_or_even.py - odd_or_even - ky7 - kata
 
 - validate_pin.py - validate_pin - ky7 - kata
+
+- alphabet_war.py - alphabet_war - ky7 - kata
