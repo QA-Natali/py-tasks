@@ -55,3 +55,5 @@
 - alphabet_war.py - alphabet_war - ky7 - kata
 
 - to_jaden_case.py - to_jaden_case - ky7 - kata
+
+- number.py - number - ky7 - kata
