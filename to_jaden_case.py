@@ -13,5 +13,5 @@ def to_jaden_case(string):
                 a += i
                 x = True
             else:
-                a += i
+                a += i.lower()
     return a
