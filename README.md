@@ -53,3 +53,5 @@
 - validate_pin.py - validate_pin - ky7 - kata
 
 - alphabet_war.py - alphabet_war - ky7 - kata
+
+- to_jaden_case.py - to_jaden_case - ky7 - kata
