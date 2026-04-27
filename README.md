@@ -57,3 +57,5 @@
 - to_jaden_case.py - to_jaden_case - ky7 - kata
 
 - number.py - number - ky7 - kata
+
+- remove_url_anchor.py - remove_url_anchor - ky7- kata
