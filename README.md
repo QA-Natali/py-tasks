@@ -59,3 +59,6 @@
 - number.py - number - ky7 - kata
 
 - remove_url_anchor.py - remove_url_anchor - ky7- kata
+
+- small_enough.py - small_enough - ky7 - kata
+
