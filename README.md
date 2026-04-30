@@ -63,3 +63,5 @@
 - small_enough.py - small_enough - ky7 - kata
 
 - solution.py - solution - ky6 -  kata
+
+- rgb.py - rgb - ky5 - kata
