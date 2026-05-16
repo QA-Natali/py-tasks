@@ -65,3 +65,5 @@
 - solution.py - solution - ky6 -  kata
 
 - rgb.py - rgb - ky5 - kata
+
+- generate_hashtag.py - generate_hashtag - ky5 - kata
