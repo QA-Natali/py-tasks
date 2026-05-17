@@ -67,3 +67,5 @@
 - rgb.py - rgb - ky5 - kata
 
 - generate_hashtag.py - generate_hashtag - ky5 - kata
+
+- domain_name.py - domain_name - ky5 - kata
